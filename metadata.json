@@ -1,0 +1,8 @@
+{
+  "name": "AhaPath: Adaptive Personalized Learning Platform",
+  "description": "Curriculum-aware AI learning companion combining deterministic adaptive sequencing, explainable misconception diagnostics, bilingual English & Telugu visual mind maps, and real-time educator intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
